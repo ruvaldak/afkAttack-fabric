@@ -38,8 +38,7 @@
     "fabric-key-binding-api-v1": "*",
     "fabric": "*",
     "minecraft": "1.16.x",
-    "autoconfig1u": "3.3.x",
-    "cloth-config2": "4.8.x"
+    "autoconfig1u": "3.3.x"
   },
   "suggests": {
     "modmenu": ">=1.14.9+build.13"
